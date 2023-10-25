@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>awake.0e7f9424-7309-11ee-ab96-f80dac56e3e1.jpg</filename>
+	<path>C:\Users\abhij\Dropbox\PC\Downloads\labelImg-master (1)\labelImg-master\images\awake.0e7f9424-7309-11ee-ab96-f80dac56e3e1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>82</ymin>
+			<xmax>462</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

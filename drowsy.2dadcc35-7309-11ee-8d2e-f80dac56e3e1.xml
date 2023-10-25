@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>drowsy.2dadcc35-7309-11ee-8d2e-f80dac56e3e1.jpg</filename>
+	<path>C:\Users\abhij\Dropbox\PC\Downloads\labelImg-master (1)\labelImg-master\images\drowsy.2dadcc35-7309-11ee-8d2e-f80dac56e3e1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drowsy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>2</ymin>
+			<xmax>525</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
